@@ -15,4 +15,5 @@ Como se trata do meu primeiro projeto, as funcionalidades estão a ser desenvolv
 - **CSS3** → estilização e responsividade
 - **Git/GitHub** → versionamento do projeto
 
-  
+##
+Feito por Arthur Angeli
