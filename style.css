@@ -1,0 +1,45 @@
+#title {
+    position: relative;
+    background-color: rgb(red, rgb(6, 154, 6), blue);
+    text-align: left;
+    top: 20px;
+    left: 70px;
+}
+#img-title {
+    position: relative;
+    width: 88px;
+    top: -100px;
+}
+#ideia {
+    color: rgb(4, 119, 4);
+}
+#dashboard {
+    position: relative, left;
+    width: 350px;
+    z-index: 10;
+    float: right;
+    margin-left: 100px;
+}
+.links{
+    text-align: right;
+}
+.sep {
+    position: relative;
+    bottom: 100px;
+    background-color: rgb(4, 119, 4);
+
+}
+.text1 {
+    position: relative;
+    bottom: 100px;
+    border-color: rgb(174, 229, 174);
+    border-radius: 4%;
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 75%;
+    z-index: 9;
+}
+body{
+    background-color: rgb(225, 248, 225);
+    font-family: Arial, sans-serif;
+}
