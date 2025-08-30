@@ -1,26 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Dashboard</title>
-</head>
-<body>
-    <h1 id="title">EcoFootPrint+</h1> <div class="links"><a href=""> Produtos |</a><a href=""> Concorrentes |</a><a href=""> Intuito</a></div>
-    <img id="img-title" src="https://www2.ifal.edu.br/noticias/plano-de-gestao-logistica-sustentavel-do-ifal-ja-esta-em-vigor/sustentabilidade.png/@@images/image.png">
-    <p class="sep"><br><br><br></p>
-    <div class="text1">
-        <img id="dashboard" src="https://planicont.com.br/wp-content/uploads/2024/09/DASHBOARD-FINANCEIRO-PLANICONT.COM_.BR-EXCEL-768x768-1.webp">
-        <h2> <span id="ideia">Ideia Principal</span></h2>
-        <p> A EcoFootprint+ é uma plataforma SaaS que ajuda PMEs a calcular,
-        entender e reportar automaticamente suas emissões de gases de efeito
-        estufa. Traduzimos dados de contas de luz, gás, frotas e compras em um
-        dashboard simples, mostrando onde a empresa mais polui e como pode
-        economizar dinheiro ao reduzir emissões. Tornamos acessível para
-        empresas menores o que hoje só grandes corporações podem fazer.</p>
-    </div>
-</body>
-</html>
